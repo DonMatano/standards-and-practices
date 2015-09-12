@@ -190,6 +190,7 @@ Format:
 | Marsel Zaripov | [TvoroG](https://github.com/TvoroG) ||
 | Martin Colwell | [colwem](https://github.com/colwem) ||
 | Martin Pasko | [smartly23](https://github.com/smartly23) ||
+| Matano Mwakima | [DonMatano](https://github.com/DonMatano) | University Student, basic understanding in C, C++ and Java (self taught). Working to be a software developer  |
 | Mathieu Hendey | [mathieuhendey](https://github.com/mathieuhendey) ||
 | Matt Adelman | [adelman](https://github.com/adelman) | I know, and am fairly proficient in a few languages and am looking to get into the open source community. |
 | Matt Enright | [enrDiggityTwo](https://github.com/enrDiggityTwo) | Been learning a bit of Python, Ruby and Javascript, but still kind of at the beginner stage |
